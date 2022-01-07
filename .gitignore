@@ -1,0 +1,5 @@
+# mypy
+.mypy_cache/
+.idea/
+.jpg
+__pycache__/
